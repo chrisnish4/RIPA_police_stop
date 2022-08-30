@@ -1,1 +1,1 @@
-# Analysis of RIPA Police Stop Data - San-Diego
+# Analysis of RIPA Police Stop Data - San Diego
