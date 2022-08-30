@@ -1,7 +1,6 @@
 -- Creating schema for raw data 
 create schema if not exists ripa_raw;
 
--- NEED TO FIX STOP DETAILS AND STOP REASON
 
 -- Create and populate stop_details
 -- Had to delete '\' from rows 393149, and remove base date (1900-01-01) from time columns in 92 rows 
